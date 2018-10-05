@@ -1,2 +1,2 @@
-# startup-demo
+# Startup-Demo
 Simple Startup Page
